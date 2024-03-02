@@ -12,7 +12,9 @@
 
 Let us not expect Wall Street to open-source LLMs or open APIs, due to FinTech institutes' internal regulations and policies.
 
-```pip install torch==2.2.0+cu121  torchvision==0.17.0+cu121 torchaudio==2.2.0  -f https://download.pytorch.org/whl/torch_stable.html ```
+```shell
+pip install torch==2.2.0+cu121  torchvision==0.17.0+cu121 torchaudio==2.2.0  -f https://download.pytorch.org/whl/torch_stable.html
+```
 ```shell
 pip install torch==2.2.0       torchvision==0.17.0       torchaudio==2.2.0       -f https://download.pytorch.org/whl/torch_stable.html
 ```
