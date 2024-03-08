@@ -27,7 +27,17 @@ pip install torch==1.9.0 torchvision==0.16.0 torchaudio==1.9.0 -f https://downlo
 ```
 
 
+```shell
 pip uninstall torch torchvision torchaudio
+```
+
+
+```shell
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tushare
+
+```
+
 
 
 
