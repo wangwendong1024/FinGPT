@@ -130,7 +130,7 @@ dmypy.json
 .DS_Store
 .idea/FinGPT.iml
 *.xml
-
+=2.0
 # Job scripts
 fingpt/FinGPT_sentiment/instruct-FinGPT/run.sh
 fingpt/FinGPT_sentiment/instruct-FinGPT/checkpoints
